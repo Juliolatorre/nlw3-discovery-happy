@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="./public/images/logo.svg">
+    <img src="https://i.imgur.com/gqCU6wy.png">
 </h1>
 
 <h1 align="center">
@@ -17,7 +17,7 @@
 
 O **Happy** é um projeto que visa facilitar visitas aos orfanatos próximos a você. 💜 
 
-Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** 💟 durante os dias 12 a 18 de Outubro de 2020.
+Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 12 a 18 de Outubro de 2020.
 
 Projeto da **Next Level Week 3.0.**
 
@@ -41,7 +41,3 @@ Esse projeto está sob a licença MIT. ❤️
 <h3 align="center"> 
  Desenvolvido com 💜 por Júlio Latorre
 </h3>
-
-<h5 align="center"> 
-Agradecimentos a Guilherme Capitão
-</h5>
