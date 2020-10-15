@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://i.imgur.com/gqCU6wy.png">
+ <img src="https://i.imgur.com/gqCU6wy.png" alt="imagem" width="200"/>  
 </h1>
 
 <h1 align="center">
@@ -10,7 +10,7 @@
 
 # Indice
 - [Sobre](#-Sobre)
-- [Tecnologias Utilizadas](#-TecnologiasUtilizadas)
+- [Tecnologias Utilizadas](#-Tecnologias-Utilizadas)
 
 
 ## 📋 Sobre
@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 ---
 
 ## 📝 Licença
-Esse projeto está sob a licença MIT. ❤️
+Esse projeto está sob a licença MIT. 
 
 ---
 
