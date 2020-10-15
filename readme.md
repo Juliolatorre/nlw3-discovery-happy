@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
-- [Handlebars] (https://handlebarsjs.com/)
+- [Handlebars](https://handlebarsjs.com/)
 - [SQLite](https://www.sqlite.org/index.html)
 
 ---
