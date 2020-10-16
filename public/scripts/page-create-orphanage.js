@@ -73,7 +73,19 @@ function toggleSelect(event) {
     // colocar o class .active nesse botão clicado
     const button = event.currentTarget
     button.classList.add('active')
+
     // atualizar o meu input hidden com o valor selecionado
     const input = document.querySelector('[name="open_on_weekends"]')
     input.value = button.dataset.value
 }
+
+function validate(event) {
+    // validar se lat e lng estão preenchidos
+    // const needsLatAndLng = true;
+    // if(needsLatAndLng) {
+    //     event.preventDefault()
+    //     alert('Selecione um ponto no mapa')  
+    // }
+ 
+}
+  

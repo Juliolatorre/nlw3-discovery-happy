@@ -7,8 +7,9 @@ const pages = require('./pages.js');
 //inciando o express
 const server = express()
 
-
 server
+
+.use(express.urlencoded({ extended: true }))
 .use(express.static('public'))
 
 // configurar template engine
@@ -16,10 +17,11 @@ server
 .set('view engine', 'hbs')
 
 // criar uma rota
-server.get('/', pages.index)
-server.get('/orphanage', pages.orphanage)
-server.get('/orphanages', pages.orphanages)
-server.get('/create-orphanage', pages.createOrphanage)
+.get("/", pages.index)
+.get("/orphanage", pages.orphanage)
+.get("/orphanages", pages.orphanages)
+.get("/create-orphanage", pages.createOrphanage)
+.post("/save-orphanage", pages.saveOrphanage);
 
 //ligar o servidor
 server.listen(5500, () => {
