@@ -9,8 +9,11 @@
 ---
 
 # Indice
-- [Sobre](#-Sobre)
-- [Tecnologias Utilizadas](#-Tecnologias-Utilizadas)
+- [Indice](#indice)
+  - [📋 Sobre](#-sobre)
+  - [🚀 Tecnologias Utilizadas](#-tecnologias-utilizadas)
+  - [:bookmark: Como Acessar o Projeto](#-como-acessar-o-projeto)
+  - [📝 Licença](#-licença)
 
 
 ## 📋 Sobre
@@ -30,6 +33,21 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [Express](https://expressjs.com/pt-br/)
 - [Handlebars](https://handlebarsjs.com/)
 - [SQLite](https://www.sqlite.org/index.html)
+
+---
+
+## :bookmark: Como Acessar o Projeto
+
+   É necessário ter o NPM instalado, caso não tenha instale através do comando npm install no terminal.
+
+   Após instalar para iniciar o projeto digite o comando npm start .
+
+   Você pode visualizar o layout do projeto através dos links abaixo:
+
+- [Layout Web](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web?node-id=0%3A1)  
+- [Layout Mobile](https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile?node-id=0%3A1)
+
+Lembrando que você precisa ter uma conta no Figma para poder acessá-lo.
 
 ---
 
